@@ -9,8 +9,8 @@
   
   <h2 align="center"> 🔥 Status 🔥 </h2>
   <p align="center">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=VSneaxV&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VSneaxV&layout=compact&langs_count=16&theme=radical"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Durim-D&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durim-D&layout=compact&langs_count=16&theme=radical"/>
   </p>
 
  
